@@ -1,1 +1,0 @@
-Place your own gallery images in this folder, then edit the image paths in index.html.
